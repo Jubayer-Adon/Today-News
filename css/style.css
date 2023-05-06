@@ -1,0 +1,15 @@
+.hb-margin {
+  margin-left: 900px;
+}
+.top-nav-section {
+  color: #5d5fef !important;
+  border-bottom: 3px solid #5d5fef !important;
+}
+.nav-section-colors {
+  color: #ffffff;
+  background-color: #eeefff;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
